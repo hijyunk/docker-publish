@@ -7,3 +7,4 @@ db.worldcup.insert({no:4, nation:"Qualifiers 4", date: "202410"})
 db.worldcup.insert({no:5, nation:"Qualifiers 5", date: "202411"})
 
 db.worldcup.find()
+
